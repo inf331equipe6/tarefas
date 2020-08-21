@@ -10,17 +10,17 @@ Mateus Gonçalves Geracino </br>
 Marcos Vinícius Piaia </br>
 Tatiany Fermino Rodrigues de Oliveira
 <br><br>
+
 ## Tarefa 4 - Diagrama de Orquestração
-   ![Diagrama de Orquestração](images/diagrama1.png)
+   ![Diagrama de Orquestração](images/Tarefa_4_1.png)
 <br>
+
 ## Tarefa 4 - Diagrama de Coreografia
-![Diagrama de Coreografia](images/diagrama2_v2.png) </br>
+![Diagrama de Coreografia](images/Tarefa_4_2.png) </br>
 
 ### Troca de mensagens
 
 ```html
-Troca de Mensagens
-
 Login
 interface IClientEvent
     tópicos: /view/login/client
